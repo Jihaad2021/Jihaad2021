@@ -5,11 +5,7 @@ I'm a data scientist with a passion for solving complex problems using machine l
 ## 🔬 Current Research Projects
 
 1. Text Classification: AI-Generated vs. Human-Written Text
-- Objective: To distinguish between AI-generated text and human-written text.
-- Techniques: Combination of RNN models (LSTM, GRU, BiLSTM, BiGRU, LSTM-GRU, BiLSTM-BiGRU) with preprocessing techniques (lowercasing, removing numbers and punctuation, stopword removal).
-- Data: ALTA Shared Task dataset (8,000 training entries, 200 test entries).
-- Results: Achieved highest accuracy of 96% using the LSTM model with preprocessing techniques involving lowercasing, removing numbers, and punctuation.
-- Importance: Critical for security applications to detect AI-generated content.
+2. Addressing Data Imbalance with Random Forest
 
 ## 📚 Education and Background
 - Data Science Projects: Experience in computer vision, NLP, regression, classification, and clustering.
