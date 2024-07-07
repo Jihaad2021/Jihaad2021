@@ -20,5 +20,5 @@ I'm a data scientist with a passion for solving complex problems using machine l
 ## 🚀 Let's Connect!
 - Email: jihaadariefpangestu@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jihaad-arief-pangestu/
-- GitHub: Jihaad2021
+- GitHub: https://github.com/Jihaad2021
 - Feel free to reach out if you'd like to collaborate on a project or just chat about data science and machine learning!
