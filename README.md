@@ -4,7 +4,7 @@ I'm a data scientist with a passion for solving complex problems using machine l
 
 ## 🔬 Current Research Projects
 
-1. Text Classification: AI-Generated vs. Human-Written Text
+1. Text Classification: AI-Generated vs. Human-Written Text (https://github.com/Jihaad2021/AI-Generated-Text-Vs-Human)
 2. Addressing Data Imbalance with Random Forest (https://github.com/Jihaad2021/AI-Generated-Text-Vs-Human)
 
 ## 📚 Education and Background
