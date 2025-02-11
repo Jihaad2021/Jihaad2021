@@ -28,6 +28,11 @@ Saya adalah seorang **AI Engineer yang mengkhususkan diri dalam Natural Language
    - Eksperimen dengan teknik balancing untuk meningkatkan performa model Random Forest.  
    - [🔗 Repository](https://github.com/Jihaad2021/Addressing-Data-Imbalance-with-Random-Forest)  
 
+### 🖼️ **Computer Vision**  
+6. **Klasifikasi Genre Musik Menggunakan CNN**  
+   - Menggunakan **GTZAN Dataset - Music Genre Classification** untuk mengklasifikasikan 10 genre musik.  
+   - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Genre-Musik-Menggunakan-CNN-/blob/main/README.md)  
+
 ---
 
 ## 🎯 **Core Expertise**  
