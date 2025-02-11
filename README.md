@@ -33,6 +33,10 @@ Saya adalah seorang **AI Engineer yang mengkhususkan diri dalam Natural Language
    - Menggunakan **GTZAN Dataset - Music Genre Classification** untuk mengklasifikasikan 10 genre musik.  
    - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Genre-Musik-Menggunakan-CNN-/blob/main/README.md)  
 
+7. **Violence Recognition from Videos using Deep Learning**  
+   - Mendeteksi aksi kekerasan dalam video menggunakan kombinasi **VGG16 sebagai ekstraktor fitur dan LSTM untuk analisis temporal.**
+   - [🔗 Repository](https://github.com/Jihaad2021/Pengenalan-Kekerasan-dalam-Video-Menggunakan-Deep-Learning)  
+
 ---
 
 ## 🎯 **Core Expertise**  
