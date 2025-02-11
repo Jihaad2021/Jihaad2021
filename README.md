@@ -33,11 +33,10 @@ Saya adalah seorang **AI Engineer yang mengkhususkan diri dalam Natural Language
    - Menggunakan **GTZAN Dataset - Music Genre Classification** untuk mengklasifikasikan 10 genre musik.  
    - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Genre-Musik-Menggunakan-CNN-/blob/main/README.md)  
 
-7. **Violence Recognition from Videos using Deep Learning**  
+7. **Violence Recognition from Videos using Deep Learning**
    - Mendeteksi aksi kekerasan dalam video menggunakan kombinasi **VGG16 sebagai ekstraktor fitur dan LSTM untuk analisis temporal.**
    - [🔗 Repository](https://github.com/Jihaad2021/Pengenalan-Kekerasan-dalam-Video-Menggunakan-Deep-Learning)
-  
- 8. **Klasifikasi Kanker Kulit dengan CNN**  
+8. **Klasifikasi Kanker Kulit dengan CNN** 
    - Membangun model klasifikasi kanker kulit menggunakan **VGG16, ResNet50, dan DenseNet121 pada dataset HAM10000**. Eksperimen mencakup segmentasi gambar dengan U-Net serta augmentasi data menggunakan SMOTE dan non-SMOTE.
    - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Kanker-Kulit-dengan-CNN/blob/main/README.md)  
 
