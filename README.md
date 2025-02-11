@@ -7,6 +7,7 @@ I'm a data scientist with a passion for solving complex problems using machine l
 1. Text Classification: AI-Generated vs. Human-Written Text (https://github.com/Jihaad2021/AI-Generated-Text-Vs-Human)
 2. Addressing Data Imbalance with Random Forest (https://github.com/Jihaad2021/Addressing-Data-Imbalance-with-Random-Forest)
 3. Evaluasi Model Transformer untuk Klasifikasi Berita Indonesia (https://github.com/Jihaad2021/Fine-Tuning-Encoder-Decoder-Based-Model)
+4. Analisis Pengaruh Attention pada Model LSTM dan RNN untuk Tugas Teks Generasi(https://github.com/Jihaad2021/Analisis-Pengaruh-Attention-pada-Model-LSTM-dan-RNN-untuk-Tugas-Teks-Generasi)
 
 ## 📚 Education and Background
 - Data Science Projects: Experience in computer vision, NLP, regression, classification, and clustering.
