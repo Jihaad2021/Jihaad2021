@@ -1,66 +1,44 @@
-# Halo! 👋  
+## 👋 Hi, I'm Jihaad Arief Pangestu
 
-Saya adalah seorang **AI Engineer yang mengkhususkan diri dalam Natural Language Processing (NLP)** dengan pengalaman luas di bidang **Machine Learning, Deep Learning, dan Reinforcement Learning**. Saya memiliki ketertarikan dalam membangun dan mengoptimalkan model AI untuk berbagai aplikasi, termasuk klasifikasi teks, generative modeling, dan prediksi data finansial.
-
-## 🔬 Penelitian & Proyek  
-
-### 📝 **Natural Language Processing & Deep Learning**  
-1. **Evaluasi Model Transformer untuk Klasifikasi Berita Indonesia**  
-   - Membandingkan model **Encoder-Only, Decoder-Only, dan Encoder-Decoder** pada dataset berita Indonesia.  
-   - [🔗 Repository](https://github.com/Jihaad2021/Fine-Tuning-Encoder-Decoder-Based-Model)  
-
-2. **Analisis Pengaruh Attention pada Model LSTM dan RNN untuk Tugas Teks Generasi**  
-   - Menganalisis dampak **Global, Sparse, dan Local Attention** terhadap kualitas teks yang dihasilkan oleh LSTM dan RNN.  
-   - [🔗 Repository](https://github.com/Jihaad2021/Analisis-Pengaruh-Attention-pada-Model-LSTM-dan-RNN-untuk-Tugas-Teks-Generasi)  
-
-3. **AI-Generated vs. Human-Written Text Classification**  
-   - Membangun model untuk membedakan teks yang dibuat oleh AI dan manusia menggunakan **Transformer-based models**.  
-   - [🔗 Repository](https://github.com/Jihaad2021/AI-Generated-Text-Vs-Human)  
+AI Engineer focused on **agentic AI systems**, multi-agent architectures, and reliability-driven AI design.  
+I build **production-oriented AI systems** that balance autonomy, cost, and trustworthiness across knowledge-intensive and high-risk domains.
 
 ---
 
-### 📈 **Machine Learning & Reinforcement Learning**  
-4. **Prediksi Harga Saham Apple Menggunakan Q-Learning**  
-   - Menggunakan **Q-Learning** untuk memprediksi harga saham Apple berdasarkan eksperimen dengan data **10 tahun vs. 20 tahun**.  
-   - [🔗 Repository](https://github.com/Jihaad2021/Prediksi-Harga-Saham-Apple-Menggunakan-Q-Learning-Studi-Eksperimen-dengan-Data-10-Tahun-vs-20-Tahun)  
+## 🚀 Selected Projects (Agentic AI Systems)
 
-5. **Addressing Data Imbalance with Random Forest**  
-   - Eksperimen dengan teknik balancing untuk meningkatkan performa model Random Forest.  
-   - [🔗 Repository](https://github.com/Jihaad2021/Addressing-Data-Imbalance-with-Random-Forest)  
+### 🔹 Agentic RAG System — Internal Knowledge AI  
+A hierarchical **multi-agent RAG system** for reliable question answering over proprietary documents.  
+Uses **adaptive retrieval strategies** (Vector, Keyword, GraphRAG), parallel retrieval, and self-evaluation loops to reduce brittle RAG failures.
 
-### 🖼️ **Computer Vision**  
-6. **Klasifikasi Genre Musik Menggunakan CNN**  
-   - Menggunakan **GTZAN Dataset - Music Genre Classification** untuk mengklasifikasikan 10 genre musik.  
-   - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Genre-Musik-Menggunakan-CNN-/blob/main/README.md)  
-
-7. **Violence Recognition from Videos using Deep Learning**
-   - Mendeteksi aksi kekerasan dalam video menggunakan kombinasi **VGG16 sebagai ekstraktor fitur dan LSTM untuk analisis temporal.**
-   - [🔗 Repository](https://github.com/Jihaad2021/Pengenalan-Kekerasan-dalam-Video-Menggunakan-Deep-Learning)
-8. **Klasifikasi Kanker Kulit dengan CNN** 
-   - Membangun model klasifikasi kanker kulit menggunakan **VGG16, ResNet50, dan DenseNet121 pada dataset HAM10000**. Eksperimen mencakup segmentasi gambar dengan U-Net serta augmentasi data menggunakan SMOTE dan non-SMOTE.
-   - [🔗 Repository](https://github.com/Jihaad2021/Klasifikasi-Kanker-Kulit-dengan-CNN/blob/main/README.md)  
+🔗 Project link: _[https://github.com/Jihaad2021/agentic-rag-system]_
 
 ---
 
-## 🎯 **Core Expertise**  
-✅ **Natural Language Processing (NLP)** – Text classification, sentiment analysis, language modeling.  
-✅ **Deep Learning** – Transformer models (BERT, GPT, T5), CNNs, RNNs (LSTM, GRU).  
-✅ **Machine Learning** – Random Forest, SVM, KNN, Gradient Boosting.  
-✅ **Reinforcement Learning** – Q-Learning, Policy Gradient Methods.  
-✅ **Data Science & Analytics** – Data preprocessing, feature engineering, model evaluation.  
+### 🔹 TaskFlow Sentiment Analysis — Hybrid AI Pipeline  
+A **cost-aware, multi-agent analytics pipeline** for large-scale sentiment analysis on structured (CSV) data.  
+Combines deterministic NLP with **selective LLM escalation**, quality control gates, and bounded regeneration loops for predictable production use.
+
+🔗 Project link: _[https://github.com/Jihaad2021/taskflow-sentiment-analysis]_
 
 ---
 
-## 🛠 **Tech Stack & Tools**  
-🔹 Python, TensorFlow, PyTorch, Hugging Face Transformers  
-🔹 Scikit-learn, Pandas, NumPy, Matplotlib  
-🔹 SQL, Google BigQuery  
-🔹 Git, Docker, Linux  
+### 🔹 Autonomous Internet Research Agent  
+An **autonomous, tool-using multi-agent research system** for evidence-based internet research.  
+Implements source credibility scoring, fact-checking pipelines, multi-perspective analysis, and **consensus-based governance** to reduce hallucinations.
+
+🔗 Project link: _[https://github.com/Jihaad2021/autonomous-research-agent]_
 
 ---
 
-## 🚀 **Let's Connect!**  
-📩 **Email:** jihaadariefpangestu@gmail.com  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jihaad-arief-pangestu/)  
+## 🧠 Core Interests
+- Agentic AI & Multi-Agent Systems  
+- LLMs, RAG & Knowledge-Centric AI  
+- Reliability, Cost-Aware AI, and AI Governance  
+- Applied AI for Real-World Constraints
 
-⚡ *Always open to research collaborations and AI-related discussions!*  
+---
+
+📫 **Contact**  
+- Email: jihaadariefpangestu@gmail.com  
+- LinkedIn: https://linkedin.com/in/jihaad-arief-pangestu
